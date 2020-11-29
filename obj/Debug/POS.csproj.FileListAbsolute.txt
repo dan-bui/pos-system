@@ -1,0 +1,202 @@
+F:\source\repos\quyettam\bin\Debug\quyettam.exe.config
+F:\source\repos\quyettam\bin\Debug\quyettam.exe
+F:\source\repos\quyettam\bin\Debug\quyettam.pdb
+F:\source\repos\quyettam\bin\Debug\AxShockwaveFlashObjects.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.Shared.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\source\repos\quyettam\bin\Debug\ShockwaveFlashObjects.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\source\repos\quyettam\bin\Debug\stdole.dll
+F:\source\repos\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\source\repos\quyettam\obj\Debug\POS.csprojAssemblyReference.cache
+F:\source\repos\quyettam\obj\Debug\quyettam.Form1.resources
+F:\source\repos\quyettam\obj\Debug\quyettam.print.resources
+F:\source\repos\quyettam\obj\Debug\quyettam.Properties.Resources.resources
+F:\source\repos\quyettam\obj\Debug\POS.csproj.GenerateResource.cache
+F:\source\repos\quyettam\obj\Debug\POS.csproj.CoreCompileInputs.cache
+F:\source\repos\quyettam\obj\Debug\POS.csproj.CopyComplete
+F:\source\repos\quyettam\obj\Debug\quyettam.exe
+F:\source\repos\quyettam\obj\Debug\quyettam.pdb
+D:\Visual Studio\quyettam\bin\Debug\quyettam.exe.config
+D:\Visual Studio\quyettam\bin\Debug\quyettam.exe
+D:\Visual Studio\quyettam\bin\Debug\quyettam.pdb
+D:\Visual Studio\quyettam\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.Shared.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Visual Studio\quyettam\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio\quyettam\bin\Debug\stdole.dll
+D:\Visual Studio\quyettam\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio\quyettam\obj\Debug\POS.csprojAssemblyReference.cache
+D:\Visual Studio\quyettam\obj\Debug\quyettam.Form1.resources
+D:\Visual Studio\quyettam\obj\Debug\quyettam.print.resources
+D:\Visual Studio\quyettam\obj\Debug\quyettam.Properties.Resources.resources
+D:\Visual Studio\quyettam\obj\Debug\POS.csproj.GenerateResource.cache
+D:\Visual Studio\quyettam\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Visual Studio\quyettam\obj\Debug\POS.csproj.CopyComplete
+D:\Visual Studio\quyettam\obj\Debug\quyettam.exe
+D:\Visual Studio\quyettam\obj\Debug\quyettam.pdb
+D:\Visual Studio\quyettam\obj\Debug\quyettam.Form2.resources
+D:\Visual Studio\Universe\POS 2\bin\Debug\quyettam.exe.config
+D:\Visual Studio\Universe\POS 2\bin\Debug\quyettam.exe
+D:\Visual Studio\Universe\POS 2\bin\Debug\quyettam.pdb
+D:\Visual Studio\Universe\POS 2\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.Shared.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\stdole.dll
+D:\Visual Studio\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio\Universe\POS 2\obj\Debug\POS.csprojAssemblyReference.cache
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.Form1.resources
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.Form2.resources
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.print.resources
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.Properties.Resources.resources
+D:\Visual Studio\Universe\POS 2\obj\Debug\POS.csproj.GenerateResource.cache
+D:\Visual Studio\Universe\POS 2\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Universe\POS 2\obj\Debug\POS.csproj.CopyComplete
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.exe
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.pdb
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.Form3.resources
+D:\Visual Studio\Universe\POS 2\obj\Debug\quyettam.Form4.resources
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\quyettam.exe.config
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\quyettam.exe
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\quyettam.pdb
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\stdole.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Form1.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Form2.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Form3.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Form4.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.print.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Properties.Resources.resources
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\POS.csproj.CopyComplete
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.exe
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.pdb
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\Universe\POS 2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\Universe\POS 2\obj\Debug\quyettam.Admin管理.resources
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\quyettam.exe.config
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\quyettam.exe
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\quyettam.pdb
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\stdole.dll
+C:\Users\user\Desktop\卒業制作\POS 2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Form1.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Form2.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Form3.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Form4.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Admin管理.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.print.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.Properties.Resources.resources
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\POS.csproj.CopyComplete
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.exe
+C:\Users\user\Desktop\卒業制作\POS 2\obj\Debug\quyettam.pdb
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\quyettam.exe.config
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\quyettam.exe
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\quyettam.pdb
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\stdole.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Form1.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Form2.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Form3.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Form4.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Admin管理.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.print.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.Properties.Resources.resources
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.exe
+C:\Users\Bui Minh Dang\Desktop\pos23-master\obj\Debug\quyettam.pdb
